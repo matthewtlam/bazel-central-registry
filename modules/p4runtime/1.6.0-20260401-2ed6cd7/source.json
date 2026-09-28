@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/p4lang/p4runtime/archive/2ed6cd75562b31bfe904b58282a67cf6f5445938.tar.gz",
+    "strip_prefix": "p4runtime-2ed6cd75562b31bfe904b58282a67cf6f5445938",
+    "integrity": "sha256-MYFxnBaRef4FMuTb/zZWJHjHLZM0du9mthfziZwFsFE=",
+    "patch_strip": 1,
+    "patches": {
+        "module_version.patch": "sha256-wDqYoH0MbBVWQ7U4651z37uEaF8zbCr19dFOBYFqRY0="
+    }
+}
