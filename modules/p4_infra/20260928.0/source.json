@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/google/p4-infra/releases/download/20260928.0/p4-infra-release-2026-0928.zip",
+    "strip_prefix": "p4-infra-main",
+    "integrity": "sha256-WdNaEIW01CngX6M2ebW9MxGprNkW6QEA6/cp4o5UOLo=",
+    "patch_strip": 1,
+    "patches": {
+        "module_version.patch": "sha256-1X23uUqqiBrpvwGAHFk0qhQOIZHz8DhbCbMRmcyuS5Q=",
+        "use_p4runtime_snapshot.patch": "sha256-yd9z8BLiCvmEGDirgfus3xbpPhjM5vCiOIg/qE8Gp2Q="
+    }
+}
